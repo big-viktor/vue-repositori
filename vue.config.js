@@ -1,3 +1,5 @@
 module.exports = {
-    publicPath: '/vue-caesar-cipher/'
+    publicPath: process.env.NODE_ENV === 'production'
+        ? '/vue-repositori/'
+        : '/'
 }
