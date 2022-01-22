@@ -17,6 +17,7 @@
    </div>
  </div>
  <Slider/>
+ 
 </div>
   
 <div class="bacg_N2">
